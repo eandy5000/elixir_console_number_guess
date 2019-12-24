@@ -1,11 +1,6 @@
 # NumberConsoleGame
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `number_console_game` to your list of dependencies in `mix.exs`:
+Command Line Guessing game, with hints and directions based on outcome
 
 ```elixir
 def deps do
